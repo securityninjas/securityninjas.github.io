@@ -1,0 +1,34 @@
+
+
+.font {
+    font-family: Secular One;
+   }
+
+
+.lobster {
+     font-family: Lobster Two;
+    }
+
+.smaller-image
+    {
+      border-style: solid;
+	  border-color: red;
+	  border-radius: 50%;
+	}
+
+  .circular--square {
+    height: 200px;
+  }
+
+body {
+	background-color: #d6e0f0;
+      }
+
+
+hr   {
+
+	   border-color: #a6a6a4;
+	   border-top-style: dotted;
+	   border-width: 5px;
+     width:  4%;
+     }
